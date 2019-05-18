@@ -1,3 +1,8 @@
 # MicroJump
 
-Modified plugin from http://dev.bukkit.org/bukkit-plugins/microjump/. 
+
+Modified plugin from 
+
+https://github.com/TheDeviantNetwork/MicroJump
+
+http://dev.bukkit.org/bukkit-plugins/microjump/
