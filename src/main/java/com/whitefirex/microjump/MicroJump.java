@@ -29,7 +29,6 @@ public class MicroJump extends JavaPlugin {
             inventoryListener.addPlayer(p.getUniqueId());
 
             getServer().getScheduler().runTaskLater(this, new Runnable() {
-                @Override
                 public void run() {
                     inventoryListener.removePlayer(p.getUniqueId());
                 }
